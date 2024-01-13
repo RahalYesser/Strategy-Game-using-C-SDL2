@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1704924983 source:d:\c\project\main.c
+	<SDL2/SDL.h>
+	<SDL_image/SDL_image.h>
+	<SDL2/SDL_audio.h>
+	<SDL2/SDL_mixer.h>
+	<SDL_ttf/SDL_ttf.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Game.h"
+
+1704816003 d:\c\project\constants.h
+
+1704924218 d:\c\project\game.h
+
